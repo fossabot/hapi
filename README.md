@@ -10,6 +10,7 @@ developers to focus on writing reusable application logic in a highly modular an
 
 Development version: **16.5.x** ([release notes](https://github.com/hapijs/hapi/issues?labels=release+notes&page=1&state=closed)) 
 [![Build Status](https://secure.travis-ci.org/hapijs/hapi.svg?branch=master)](http://travis-ci.org/hapijs/hapi)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2Fhapi.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2Fhapi?ref=badge_shield)
 
 For the latest updates, [change log](http://hapijs.com/updates), and release information visit [hapijs.com](http://hapijs.com) and follow [@hapijs](https://twitter.com/hapijs) on twitter. If you have questions, please open an issue in the
 [discussion forum](https://github.com/hapijs/discuss).
@@ -32,3 +33,7 @@ Eran Hammer's [Patreon page](https://www.patreon.com/eranhammer) or contact him 
 
 Past major financial support for the project was provided by:
 - Benjamin Flesch and [StriveWire](https://strivewire.com/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2Fhapi.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fevectis%2Fhapi?ref=badge_large)
